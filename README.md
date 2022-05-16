@@ -2,7 +2,7 @@
 
 I recently moved to London, UK and joined <a href="https://www.integrumesg.com/" target="_blank"> Integrum ESG</a> as Lead Machine Learning Researcher.
 
-Prior to joining, I worked on the connections between Causal Inference, Machine Learning and Data Science at Harvard, where I was a Research Fellow in <a href="https://www.hsph.harvard.edu/tyler-vanderweele/" target="_blank"> Prof. Tyler VanderWeele</a>’s group and at the University of Washington (Seattle, WA) in <a href="http://timalthoff.de/" target="_blank"> Prof. Tim Althoff</a>'s <a href="https://behavioral-data.github.io/" target="_blank"> Behavioral Data Science Lab</a>.
+Prior to joining, I worked on the connections between Causal Inference, Machine Learning and Data Science at Harvard, where I was a Research Fellow in <a href="https://www.hsph.harvard.edu/tyler-vanderweele/" target="_blank"> Prof. Tyler VanderWeele</a>’s group, and at the University of Washington (Seattle, WA) in <a href="http://timalthoff.de/" target="_blank"> Prof. Tim Althoff</a>'s <a href="https://behavioral-data.github.io/" target="_blank"> Behavioral Data Science Lab</a>.
 
 Here is my <a href="https://remydeshayes.github.io/" target="_blank"> website</a> 😄
 
