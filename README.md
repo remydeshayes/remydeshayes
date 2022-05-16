@@ -1,6 +1,8 @@
 ### Hello, I'm Rémy! 👋
 
-I am a Fellow at Harvard, working in <a href="https://www.hsph.harvard.edu/tyler-vanderweele/" target="_blank"> Prof. Tyler VanderWeele</a>’s group. My current research builds causal models to evaluate the effect of the COVID-19 pandemic on health and well-being.    
+I recently moved to London and joined <a href="https://www.integrumesg.com/" target="_blank"> Integrum ESG</a> as their Lead Machine Learning Researcher.
+
+Until recently, I was a Research Fellow at Harvard, working in <a href="https://www.hsph.harvard.edu/tyler-vanderweele/" target="_blank"> Prof. Tyler VanderWeele</a>’s group. My current research builds causal models to evaluate the effect of the COVID-19 pandemic on health and well-being.    
 Previously, I was a research assistant advised by <a href="http://timalthoff.de/" target="_blank"> Prof. Tim Althoff</a> in the <a href="https://behavioral-data.github.io/" target="_blank"> Behavioral Data Science Lab</a> at the Paul G. Allen School of Computer Science & Engineering, University of Washington, Seattle. 
 
 Here is my <a href="https://remydeshayes.github.io/" target="_blank"> website</a> 😄
