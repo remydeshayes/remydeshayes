@@ -1,6 +1,6 @@
 ### Hello, I'm Rémy! 👋
 
-In April 2022 I moved to London, UK and joined <a href="https://www.integrumesg.com/" target="_blank"> Integrum ESG</a> as Machine Learning Lead.
+In April 2022, I moved to London, UK and joined <a href="https://www.integrumesg.com/" target="_blank"> Integrum ESG</a> as Machine Learning Lead.
 
 Prior to joining, I worked on the connections between Causal Inference, Machine Learning and Data Science at Harvard, where I was a Research Fellow in <a href="https://www.hsph.harvard.edu/tyler-vanderweele/" target="_blank"> Prof. Tyler VanderWeele</a>’s group, and at the University of Washington (Seattle, WA) in <a href="http://timalthoff.de/" target="_blank"> Prof. Tim Althoff</a>'s <a href="https://behavioral-data.github.io/" target="_blank"> Behavioral Data Science Lab</a>.
 
