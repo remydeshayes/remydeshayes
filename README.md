@@ -1,8 +1,8 @@
 ### Hello, I'm Rémy! 👋
 
-I'm the Head of Machine Learning at <a href="https://www.integrumesg.com/" target="_blank"> Integrum ESG</a>. Currently, I am mainly focusing on building NLP models using methods derived from Signal Processing theory. My workdays are also spent thinking about ML scalability as I am fortunate enough to work with (very) large data sets.
+I'm leading ML R&D at <a href="https://www.fyxer.com/" target="_blank"> Fyxer AI</a>. Currently, I am mainly focusing on Open-World Learning and long horizon AI systems. My workdays are also spent thinking about ML scalability as I am fortunate enough to work with (very) large data sets.
 
-Prior to joining Integrum ESG, I worked on the connections between Causal Inference, Machine Learning and Data Science at Harvard, where I was a Research Fellow in <a href="https://www.hsph.harvard.edu/tyler-vanderweele/" target="_blank"> Prof. Tyler VanderWeele</a>’s group, and at the University of Washington (Seattle, WA) in <a href="http://timalthoff.de/" target="_blank"> Prof. Tim Althoff</a>'s <a href="https://behavioral-data.github.io/" target="_blank"> Behavioral Data Science Lab</a>.
+Prior to joining Fyxer AI, I was the Head of ML at <a href="https://www.integrumesg.com/" target="_blank"> Integrum ESG</a>. Before that, I worked on the connections between Causal Inference, Machine Learning and Data Science at Harvard, where I was a Research Fellow in <a href="https://www.hsph.harvard.edu/tyler-vanderweele/" target="_blank"> Prof. Tyler VanderWeele</a>’s group, and at the University of Washington (Seattle, WA) in <a href="http://timalthoff.de/" target="_blank"> Prof. Tim Althoff</a>'s <a href="https://behavioral-data.github.io/" target="_blank"> Behavioral Data Science Lab</a>.
 
 Here is my <a href="https://remydeshayes.github.io/" target="_blank"> website</a> 😄
 
